@@ -35,7 +35,7 @@ function getAmazon(event){
 	"method": "GET",
 	"headers": {
 		"x-rapidapi-host": "amazon-data-scrapper9.p.rapidapi.com",
-		"x-rapidapi-key": "2fe7923d20msh849834e2d765975p110705jsnd39259dc0189"
+		"x-rapidapi-key": "8341a9542dmshcd3eb44aff14a81p1340d8jsn24f0b8595c8b"
 	}
     }) .then(function(response){
         
@@ -69,7 +69,7 @@ function getAmazon(event){
 	    "method": "GET",
 	    "headers": {
 		    "x-rapidapi-host": "amazon-data-scrapper9.p.rapidapi.com",
-            "x-rapidapi-key": "2fe7923d20msh849834e2d765975p110705jsnd39259dc0189"
+            "x-rapidapi-key": "8341a9542dmshcd3eb44aff14a81p1340d8jsn24f0b8595c8b"
 	    }
         })
         .then(function(response){
@@ -103,7 +103,7 @@ function getEbay(event){
 	"method": "GET",
 	"headers": {
 		"x-rapidapi-host": "ebay-products-search-scraper.p.rapidapi.com",
-		"x-rapidapi-key": "2fe7923d20msh849834e2d765975p110705jsnd39259dc0189"
+		"x-rapidapi-key": "8341a9542dmshcd3eb44aff14a81p1340d8jsn24f0b8595c8b"
 	}
     })
     .then(function(response) {
