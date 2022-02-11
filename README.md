@@ -50,6 +50,6 @@ For more information on this license, please visit [their website](https://www.m
   
 ## Contributors
 SmartShopper is a collaboration between three dedicated developers. If you have any questions, you can find us on our GitHub pages.
-- Will is [here](https://github.com/Will-Neal).
 - Yaakov is [here](https://github.com/yyb613).
+- Will is [here](https://github.com/Will-Neal).
 - Colin is [here](https://github.com/GundamMosi10).
